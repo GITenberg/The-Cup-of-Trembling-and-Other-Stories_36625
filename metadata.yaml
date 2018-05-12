@@ -1,0 +1,31 @@
+_repo: The-Cup-of-Trembling-and-Other-Stories_36625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36625-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foote, Mary Hallock
+    aliases:
+    - Hallock, Mary
+    - Foote, Mrs. Arthur DeWint
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '2703'
+    url: http://www.gutenberg.org/2009/agents/2703
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hallock_Foote
+description: ''
+gutenberg_issued: '2011-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: The cup of trembling -- Maverick -- On a side-track -- The trumpeter.
+title: The Cup of Trembling, and Other Stories
+url: http://www.gutenberg.org/ebooks/36625
